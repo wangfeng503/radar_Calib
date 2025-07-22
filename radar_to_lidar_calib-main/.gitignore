@@ -1,0 +1,8 @@
+figs/*.png
+radar/*.png
+*.pdf
+*.pyc
+lidar/*.txt
+*.swp
+2020_11_22/*
+2021_09_29/*
